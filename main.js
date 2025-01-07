@@ -1,3 +1,3 @@
-onload = () =>{
-        document.body.classList.remove("container");
+onload = (i love you) =>{
+        document.body.classList.remove("bayu afnan ramadhan");
 };
